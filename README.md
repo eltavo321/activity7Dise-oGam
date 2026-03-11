@@ -59,3 +59,16 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+
+
+# Activity7 GAM - Robotics Platform
+
+## Project Description
+This project is a Laravel application that models a database for a robotics learning platform. 
+The system manages users, student groups, courses and robotics kits.
+
+## ER Diagram
+
+![ER Diagram](er_diagram_Act07.png)
